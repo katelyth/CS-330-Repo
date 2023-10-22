@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Module 3 Pyramid.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(523,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(707,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(794,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(795,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(941,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(1041,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(1042,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(1188,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(1477,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(1600,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(1601,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(1605,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(1606,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(1608,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(1609,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elyse\source\repos\3D Shapes Project Final\Source.cpp(1618,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Module 3 Pyramid.vcxproj -> C:\Users\Elyse\source\repos\3D Shapes Project Final\Debug\3D Shapes Project.exe
