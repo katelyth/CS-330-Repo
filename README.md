@@ -1,1 +1,19 @@
-# CS-330-Repo
+1. How do I approach designing software?
+   
+  What new design skills has your work on the project helped you to craft? For this project, it really helped me try to look at how shapes work with each other to make a whole object. I've taken and done art classes in the past, so there was a bit of drawing on old knowledge from those classes to break down each object to decide which individual shapes should be used for the object. Additionally, this project helped me understand C++ a lot more than I did before, and I really felt I became fairly comfortable with writing and the syntax of the code with this class. 
+  
+  What design process did you follow for your project work? Since a lot of the code was pre-made and I was simply altering the code, there was not a lot of the design from the beginning of the process. However, I did need to gather and analyze the requirements (done by arranging objects and taking a picture, then analyzing which shapes I would need to use). From there, I had to define what colors and textures, as well as lighting I would need to use to make the scene look right. From there, I needed to figure out where and what code I needed to implement to make the shapes work, and finally there was a lot of testing through compilation of the code to ensure my changes worked. 
+  
+  How could tactics from your design approach be applied in future work? Defining the requirements was a big step of the project, ensuring I had a solid idea of how I would build the code. By doing this, I took a lot of guesswork out of my code and was able to write confidently, which made the whole project so much easier. I will definitely be applying solid requirements gathering in the future. 
+  
+2. How do I approach developing programs?
+
+  What new development strategies did you use while working on your 3D scene? I think the biggest thing in working on this 3D scene was modular code developement. Some of the code we had from the files was written in a way that it wasn't easily reusable, and I tried to make the code reusable as much as possible. This meant things like only creating one function to draw a specific type of shape, then calling on that function multiple times to create each additional iteration of that shape in the project. 
+    
+  How did iteration factor into your development? Since we did each part of the project each week, this program was developed very iteratively. First, we created the base for the entire scene, then added additional shapes. We then learned and added texture to the objects we'd created, and finally added lighting to the scene. Once that was done, it was just a matter of adding any additional objects I needed to add to the scene. By doing it this way, it was very structured and organized, and each part of the code built upon the previous part of the code. 
+  
+  How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion? This modular approach is how I like to code in general, making the Main() function of any code as small as I possibly can. This project was no different, and I probably would have found ways to make it even more modular if I had more time to work on the project overall. 
+
+3. How can computer science help me in reaching my goals?
+
+  How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway? While I don't believe I'll be working with OpenGL all that much in my career, I think learning how to troubleshoot the code in this course was extremely helpful. I got stuck for a solid few days a couple of times, and had to retrain myself to back away from the code to really understand what each portion did and how it related to the rest. Once I did that, it ended up usually being a fairly easy fix. This project definitely helped me expand what I thought was possible for me to learn and do, which is a mindset I will definitely be taking as a further my career and try to reach my goals. 
